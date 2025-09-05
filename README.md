@@ -1,5 +1,9 @@
-# Hi, I'm Anuj Pal 👋  
-🌟 Frontend Developer | ⚡ DSA Enthusiast | 🎯 Future Big Tech Engineer  
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/anuj-pal18">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F72C2C&center=true&vCenter=true&lines=Hi%2C+I'm+Anuj+Pal+👋;Frontend+Developer+🌟;DSA+Enthusiast+⚡;Future+Big+Tech+Engineer+🎯" />
+  </a>
+</p>
 
 ---
 
@@ -11,6 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-FFA500?logo=thealgorithms&logoColor=white)
 
 ---
 
