@@ -1,9 +1,13 @@
 <!-- Typing SVG -->
+<h1 align="center">Hi, I'm Anuj Pal 👋</h1>
+
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/anuj-pal18">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F72C2C&center=true&vCenter=true&lines=Hi%2C+I'm+Anuj+Pal+👋;Frontend+Developer+🌟;DSA+Enthusiast+⚡;Future+Big+Tech+Engineer+🎯" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F72C2C&center=true&vCenter=true&lines=Frontend+Developer+🌟;DSA+Enthusiast+⚡;Future+Big+Tech+Engineer+🎯" />
   </a>
 </p>
+
 
 ---
 
