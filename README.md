@@ -1,12 +1,12 @@
-<!-- Typing SVG -->
 <h1 align="center">Hi, I'm Anuj Pal 👋</h1>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/anuj-pal18">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F72C2C&center=true&vCenter=true&lines=Frontend+Developer+🌟;DSA+Enthusiast+⚡;Future+Big+Tech+Engineer+🎯" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=2000&color=F72C2C&center=true&vCenter=true&multiline=true&repeat=true&lines=Full+Stack+Developer+🌟;DSA+Enthusiast+⚡;Future+Big+Tech+Engineer+🎯" />
   </a>
 </p>
+
 
 
 ---
